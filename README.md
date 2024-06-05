@@ -1,4 +1,4 @@
-This .zip file contains the data that is paet of the Proceedings of the Royal Soceity A draft titled "Spectral characteristics of the heat release rate in turbulent flames".
+This .zip file contains the data that is paet of the Proceedings of the Journal of Fluid Mechanics titled "Spectral characteristics of the heat release rate in turbulent flames".
 The data consists of:
 
   a. Probe time-series data consisting various primitive variables such as velocity, Heat Release Rate (HRR), mixture fraction, etc. for 5 cases 
